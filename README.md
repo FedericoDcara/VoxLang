@@ -6,7 +6,6 @@
  - [Deeplx](https://github.com/OwO-Network/DeepLX)
  - [Whisper OpenAI](https://platform.openai.com/account/api-keys)
  - [VB-Cable](https://vb-audio.com/Cable/)
- - VtubeStudio
 
 
 ## Installation
